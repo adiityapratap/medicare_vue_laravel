@@ -22,7 +22,7 @@
     "@fortawesome/fontawesome-free": "5.4.1",
     "@nuxtjs/axios": "5.3.3",
     "@nuxtjs/dotenv": "1.1.1",
-    "moment-timezone": "0.5.21",
+    "moment-timezone": "0.5.35",
     "nuxt": "1.4.2",
     "sidebar": "^1.0.2",
     "test": "^0.6.0",
